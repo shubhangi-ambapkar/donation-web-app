@@ -18,6 +18,6 @@ step 5: create success and failure page (i.e. for transaction successful and fai
 
 step 6: Integrate your PHPMailer with website (To send invoice to Donar when transaction get successful)
 
-You can watch my output in this Youtube link :
+You can watch my output in this video link :https://drive.google.com/file/d/14hAX7Ob2H1VE7BXW-JNTDT8VT2Lr1Slc/view?usp=sharing
 
-You can follow me on Linkedin :
+You can connect me on Linkedin :https://www.linkedin.com/in/shubhangi-ambapkar/
