@@ -1,7 +1,7 @@
 <?php 
 		 
-			define('EMAIL', 'mails.dodonation@gmail.com');
-			define('PASS', 'dodonation@778');
+			define('EMAIL', 'your mail');
+			define('PASS', 'your pass');
 			define('HOST', 'smtp.gmail.com');
 
 ?>
