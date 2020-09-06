@@ -1,7 +1,7 @@
 <?php
 include "config/connection.php";
-$MERCHANT_KEY = "OZdMSPrK";
-$SALT = "50BKRQYKBH";
+$MERCHANT_KEY = "your payumoney merchant key";
+$SALT = "your payumoney salt";
 // Merchant Key and Salt as provided by Payu.
 
 $PAYU_BASE_URL = "https://sandboxsecure.payu.in";		// For Sandbox Mode
