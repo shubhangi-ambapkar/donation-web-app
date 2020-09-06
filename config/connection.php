@@ -1,8 +1,8 @@
 <?php
-define("DB_SERVER", "localhost");
-define("DB_USER", "id14622996_root");
-define("DB_PASSWORD", "Shubhangi@5656");
-define("DB_DATABASE", "id14622996_payment_integration");
+define("DB_SERVER", "your host");
+define("DB_USER", "db user");
+define("DB_PASSWORD", "password");
+define("DB_DATABASE", "db name");
 
 $conn= mysqli_connect(DB_SERVER , DB_USER, DB_PASSWORD, DB_DATABASE); //mintlime
 
